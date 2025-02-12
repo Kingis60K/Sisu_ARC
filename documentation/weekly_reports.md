@@ -3,7 +3,7 @@
 - Budget and Schedule first concepts
 - Ideas about the scope of the project and execution
 
-<br>This week took about 10 hours of work per person
+This week took about 10 hours of work per person
 
 # Week 6
 - Finishing up the plan
