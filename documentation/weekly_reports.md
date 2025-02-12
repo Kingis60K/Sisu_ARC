@@ -10,4 +10,4 @@ This week took about 10 hours of work per person
 - Determining final scope and schedule
 - Making the presentation
 
-<br>This week took about 15 hours of work per person
+This week took about 15 hours of work per person
