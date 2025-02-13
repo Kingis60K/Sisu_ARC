@@ -4,9 +4,13 @@
 Welcome to the **SisuARC Pentesting Environment Project** repository! 🎉 This project is part of Haaga-Helia University of Applied Sciences' **ICT Infrastructure Project (PRO4TF023-3011)** course. Our mission? **To design, build, and implement a full-fledged pentesting lab based on a Windows AD platform.** 🏴‍☠️💻
 
 ## 🎯 Project Goals
+
 ✅ **Infrastructure Planning** - Architecting the pentesting lab network with physical servers and enterprise-grade networking gear.
+
 ✅ **Windows AD Deployment** - Setting up a fully functional Windows Active Directory environment.
+
 ✅ **Vulnerable Network Creation** - Designing a safe yet exploitable network and virtual machines for cybersecurity exercises. 🛡️
+
 ✅ **Collaboration with SisuCTF** - Integrating our setup with the CTF webapp platform to gamify the hacking experience! 🎮
 
 ## 🏗️ Tech Stack & Hardware
@@ -24,7 +28,8 @@ Welcome to the **SisuARC Pentesting Environment Project** repository! 🎉 This 
 
 ## 👥 Team Collaboration
 
-We're joining forces with **SisuCTF**, another student team building a CTF webapp platform. This integration will allow students to practice ethical hacking in an engaging and structured manner. 🚀🎯
+We're joining forces with **SisuCTF** https://github.com/kervinennoora/SisuCTF
+ , another student team building a CTF webapp platform. This integration will allow students to practice ethical hacking in an engaging and structured manner. 🚀🎯
 
 ## 💡 Get Involved
 Feel free to check out our reports and contribute if you're interested! Any feedback, suggestions, or ideas are always welcome. 😊
