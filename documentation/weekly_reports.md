@@ -29,3 +29,9 @@ This week took about **10 hours** of work per person
 
 This week took about **30 hours** of work per person
 
+## Week 7
+
+### Implementing & Testing
+
+- CSC Account setup
+- Exploring tunneling possibilites with cPouta VPS
