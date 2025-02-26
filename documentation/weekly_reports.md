@@ -37,3 +37,16 @@ This week took about **30 hours** of work per person
 - CSC Account setup
 - Exploring tunneling possibilites with cPouta VPS
 - Online meetup with Tero & sisuCTF [Notes](13_2_tero_meet_notes.md)
+
+- **Goal set ->** have a working SMB demo by week 9
+
+## Week 8
+
+- Vacation week
+- Minor documentation and some research done
+
+## Week 9
+
+- Ideas about vulnerabilities:
+  - Kerberos golden ticket
+  - Kerberos failure, NTML Bypass
