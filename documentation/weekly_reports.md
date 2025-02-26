@@ -18,6 +18,7 @@ This week took about **10 hours** of work per person
 - Making the presentation
 
 ### Implementing
+[Details](Hardware_setup_phase1.md)
 - Preparing hardware
   - Choosing hardware
   - Resetting passwords
