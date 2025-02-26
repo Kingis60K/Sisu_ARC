@@ -47,6 +47,10 @@ This week took about **30 hours** of work per person
 
 ## Week 9
 
+- Practicing AD vulnerabilities on HTB
+  - Active machine [short writeup](active_writeup.md)
+
+
 - Ideas about vulnerabilities:
   - Kerberos golden ticket
   - Kerberos failure, NTML Bypass
