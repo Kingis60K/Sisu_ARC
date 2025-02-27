@@ -29,3 +29,7 @@
 
 ![image](https://github.com/user-attachments/assets/bec18942-3fe5-44c0-b901-c7c178172a02)
 
+- So in short i did get access to the folder, but not as a guest.
+- We started noticing more and more problems and after fighting with SMB versions we decided to start over
+- We installed Windows Server 2016 instead of Windows 10 Home
+
