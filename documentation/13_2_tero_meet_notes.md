@@ -1,4 +1,4 @@
-notes from the online meet:
+notes from the online meet 13.2.2025:
 
 ## Project management:
 
