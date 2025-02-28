@@ -48,8 +48,11 @@ This week took about **30 hours** of work per person
 ## Week 9
 
 - Practicing AD vulnerabilities on HTB
-  - Active machine [short writeup](active_writeup.md)
+  - "Active" machine on HackTheBox solved [short writeup](active_writeup.md)
 
+- Creating our first vulnerable test machine locally
+  - Windows Server 2025 with smb vulnerability
+  - "Pilotti" vm [details](PilotVM.md)
 
 - Ideas about vulnerabilities:
   - Kerberos golden ticket
