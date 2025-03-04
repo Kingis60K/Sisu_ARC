@@ -7,7 +7,7 @@
 - Budget and Schedule first concepts
 - Ideas about the scope of the project and execution
 
-This week took about **10 hours** of work per person
+This week took about **15 hours** of work per person
 
 ## Week 6 
 
@@ -40,6 +40,8 @@ This week took about **30 hours** of work per person
 
 - **Goal set ->** have a working SMB demo by week 9
 
+This week took about **25 hours** of work per person
+
 ## Week 8
 
 - Vacation week
@@ -57,3 +59,10 @@ This week took about **30 hours** of work per person
 - Ideas about vulnerabilities:
   - Kerberos golden ticket
   - Kerberos failure, NTML Bypass
+ 
+This week took about **30 hours** of work per person
+
+## Week 10
+
+- We made a Visio drawing about our test lab plan
+- Locked in some end devices vulnerabilities
