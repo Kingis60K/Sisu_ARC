@@ -8,12 +8,12 @@
 
 ### 2. **Group policy file with user/password hash (WS2)**  
    - Salasanoja voi vuotaa **Group Policy -tiedostoissa**, esim. rekisteri- tai skriptitiedostoina.  
-   - Hyökkääjä voi käyttää **hash-kaappausta** ja murtaa salasanan offline-tilassa.  
+   - Hyökkääjä voi käyttää **hash-kaappausta** ja murtaa salasanan.  
 
 ### 3. **SMBv1 misconfigured vulnerability (LAPTOP1)**  
-   - SMBv1 on vanhentunut protokolla, altistaa **EternalBlue**-hyökkäyksille (kuten **WannaCry**).  
+   - SMBv1 on vanhentunut protokolla.
    - Mahdollistaa **etäkäyttöoikeuksien laajennuksen** ja haittaohjelmien leviämisen.  
 
 ### 4. **Kerberoasting-vulnerability (Domain Controller Server)**
-   - DC voi olla altis **Kerberoastingille**, jos palvelutilien **SPN-salasanat ovat heikkoja**.  
-   - Hyökkääjä voi pyytää **Kerberos TGS** -tikettejä ja yrittää murtaa ne offline-tilassa.  
+   - DC voi olla altis **Kerberoastingille**, jos tilien **SPN-salasanat ovat heikkoja**.  
+   - Hyökkääjä voi pyytää **Kerberos TGS** -tikettejä ja yrittää murtaa ne.  
