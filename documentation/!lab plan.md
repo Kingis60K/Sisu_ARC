@@ -1,5 +1,7 @@
 ## SisuARC lab structure
 
-![image](https://github.com/user-attachments/assets/4684409a-b44b-4ecd-8eb1-8275e8b322f1)
-
 ![alt text](assets/lab-schema.png)
+
+1. **Misplaced groups.xml with GPP key (WS1)**  
+   - Group Policy Preferences (GPP) voi tallentaa salasanoja **groups.xml**-tiedostoon, joka voi löytyä **SYSVOL-kansiosta**.  
+   - Hyökkääjä voi purkaa AES-salauksen ja saada hallintatason tunnukset.  
