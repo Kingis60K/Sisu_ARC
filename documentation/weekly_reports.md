@@ -65,4 +65,17 @@ This week took about **30 hours** of work per person
 ## Week 10
 
 - We made a Visio drawing about our test lab plan
-- Locked in some end devices vulnerabilities
+- Locked in end device vulnerabilities
+
+- Teams SisuARC and SisuCTF have joined forces (Left Standing: Arttu, Riki, Noora)
+- No cuts are to be made on plans, since we are confident we have enough resources
+
+## Week 11
+
+- It was a slow week for us
+  - Personel were sick or preoccupied
+  - Lets bounce back next week
+ 
+## Week 12
+
+- 
