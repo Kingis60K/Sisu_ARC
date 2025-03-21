@@ -70,12 +70,22 @@ This week took about **30 hours** of work per person
 - Teams SisuARC and SisuCTF have joined forces (Left Standing: Arttu, Riki, Noora)
 - No cuts are to be made on plans, since we are confident we have enough resources
 
+- Setting up echoCTF.RED framwork (trying atleast)
+- Configuring echoCTF.RED servers and dockers [notes on setup](echoCTF_setup.md) 
+
+- Setting up webmail mail.sisuctf.com [notes mailserver](MailServerSetup.md)
+
 ## Week 11
 
+- Trying out openBSD, this was not the way [notes about openBSD on hetzner](BSD_setup.md)
 - It was a slow week for us
   - Personel were sick or preoccupied
   - Lets bounce back next week
  
 ## Week 12
 
-- 
+- Creating a logo for the CTFd website
+- Creating test challenges to test uploading files, hints etc.
+- Setting up CTFd framework [Details](ctfd_setup.md)
+- Setting up smtp on CTFd [Details](ctfd_emailsetup.md)
+
