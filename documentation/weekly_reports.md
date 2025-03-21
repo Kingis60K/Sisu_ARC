@@ -50,11 +50,11 @@ This week took about **25 hours** of work per person
 ## Week 9
 
 - Practicing AD vulnerabilities on HTB
-  - "Active" machine on HackTheBox solved [short writeup](active_writeup.md)
+  - "Active" machine on HackTheBox solved [short writeup](active_writeup.md) 8 hours
 
 - Creating our first vulnerable test machine locally
   - Windows Server 2025 with smb vulnerability
-  - "Pilotti" vm [details](PilotVM.md)
+  - "Pilotti" vm [details](PilotVM.md) 10 hours
 
 - Ideas about vulnerabilities:
   - Kerberos golden ticket
@@ -70,14 +70,14 @@ This week took about **30 hours** of work per person
 - Teams SisuARC and SisuCTF have joined forces (Left Standing: Arttu, Riki, Noora)
 - No cuts are to be made on plans, since we are confident we have enough resources
 
-- Setting up echoCTF.RED framwork (trying atleast)
+- Setting up echoCTF.RED framwork (trying atleast) 30 hours of work
 - Configuring echoCTF.RED servers and dockers [notes on setup](echoCTF_setup.md) 
 
-- Setting up webmail mail.sisuctf.com [notes mailserver](MailServerSetup.md)
+- Setting up webmail mail.sisuctf.com [notes mailserver](MailServerSetup.md) 5 hours
 
 ## Week 11
 
-- Trying out openBSD, this was not the way [notes about openBSD on hetzner](BSD_setup.md)
+- Trying out openBSD, this was not the way [notes about openBSD on hetzner](BSD_setup.md) 8 hous of work
 - It was a slow week for us
   - Personel were sick or preoccupied
   - Lets bounce back next week
@@ -86,6 +86,6 @@ This week took about **30 hours** of work per person
 
 - Creating a logo for the CTFd website
 - Creating test challenges to test uploading files, hints etc.
-- Setting up CTFd framework [Details](ctfd_setup.md)
-- Setting up smtp on CTFd [Details](ctfd_emailsetup.md)
+- Setting up CTFd framework [Details](ctfd_setup.md) 5 hours of work
+- Setting up smtp on CTFd [Details](ctfd_emailsetup.md) 10 hours of work
 
