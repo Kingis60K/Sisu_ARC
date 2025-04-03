@@ -44,4 +44,4 @@ GPP & GPO
 ### 1.4
 I ran into a wall. No progress made today. I messaged my team members that im having problems. I have to document the issue, photos have been taken. I plan that documentation will take about 5 hours of work.
 
-TOTAL WORK HOURS = 23 hours + Planned documentation 5 hours = 28 hours TOTAL
+## TOTAL WORK HOURS = 23 hours + Planned documentation 5 hours = 28 hours TOTAL
