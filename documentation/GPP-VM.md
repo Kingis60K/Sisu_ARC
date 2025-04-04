@@ -8,3 +8,6 @@
 - After installation it is time to put both computers to the same internet
 
 ![](assets/GPP-network-settings.png)
+![](assets/GPP-network-settings2.png)
+![](assets/GPP-network-settings3.png)
+![](assets/GPP-network-settings4.png)
