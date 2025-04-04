@@ -1,4 +1,4 @@
-## This is a documentation of the creation of a VirtualMachine with a GPP misconfiguration
+## This is a documentation of the creation of a VirtualMachine with a GPO misconfiguration
 
 ### 1. Installation and network configuration
 - First of all download the image files. This time I decided to use: 
@@ -51,8 +51,19 @@
 - This would enable me to inspect files in the domain from the Win10 Pro computer using these credentials
 - This would lead us eventually to be able to inspect the vulnerable group.xml file which would contain an encoded but unencrypted password of another user
 
-### 5. GPP misconfiguration
+### 5. GPO misconfiguration
 
+![](assets/GPP-GPO-conf.png)
+![](assets/GPP-GPO-update-successful.png)
+
+- So I ran into a problem. I couldn't locate a local group called 'Administrators'
+- I thought about it for a while but didn't come up with anything so I decided to give it a try with any group. Here I used 'Cert Publishers'
+
+![](assets/GPP-group.xml-file-not-generated.png)
+
+- So the command should make a file called group.xml in the Domain Controllers shared folders so all users in the domain could inspect the file ``\\WINDOWSSERVER2025\SYSVOL\sigismund.kuttenberg\Policies\Machine\Preferences\Groups\Groups.xml``
+- The weird thing is that the folder for the GPO is generated but there is nothing inside the folder
+- LOOKING INTO THIS RN
 
 
 ## References
