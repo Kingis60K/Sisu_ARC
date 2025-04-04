@@ -49,7 +49,7 @@
 
 - I decided to do a user and a group to add that user in
 - This would enable me to inspect files in the domain from the Win10 Pro computer using these credentials
-- This would lead us eventually to be able to inspect the vulnerable group.xml file which would contain an encoded but unencrypted password
+- This would lead us eventually to be able to inspect the vulnerable group.xml file which would contain an encoded but unencrypted password of another user
 
 ### 5. GPP misconfiguration
 
