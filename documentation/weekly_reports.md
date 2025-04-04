@@ -70,7 +70,7 @@ This week took about **30 hours** of work per person
 - Teams SisuARC and SisuCTF have joined forces (Left Standing: Arttu, Riki, Noora)
 - No cuts are to be made on plans, since we are confident we have enough resources
 
-- Setting up echoCTF.RED framwork (trying atleast) 30 hours of work
+- Setting up echoCTF.RED framwork (trying atleast) 40 hours of work
 - Configuring echoCTF.RED servers and dockers [notes on setup](echoCTF_setup.md) 
 
 - Setting up webmail mail.sisuctf.com [notes mailserver](MailServerSetup.md) 5 hours

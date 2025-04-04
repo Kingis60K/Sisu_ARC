@@ -56,7 +56,13 @@ first startup on the webapp launches the setup
 
 ![](assets/1742498355925.png)
 
+![](assets/1743155835172.png)
+
 We chose user mode for our platform, (no teams)
+
+![](assets/1743155845221.png)
+
+![](assets/1743155860537.png)
 
 ![](assets/1742498429095.png)
 

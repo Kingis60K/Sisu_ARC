@@ -68,3 +68,8 @@ webmail works with custom subdomain:
 
 ![](assets/1741533934151.png)
 
+## modified to use STARTTLS
+
+
+
+![](assets/1743400415311.png)
