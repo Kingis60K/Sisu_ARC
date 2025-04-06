@@ -63,7 +63,10 @@
 
 - So the command should make a file called group.xml in the Domain Controllers shared folders so all users in the domain could inspect the file ``\\WINDOWSSERVER2025\SYSVOL\sigismund.kuttenberg\Policies\Machine\Preferences\Groups\Groups.xml``
 - The weird thing is that the folder for the GPO is generated but there is nothing inside the folder
-- LOOKING INTO THIS RN
+
+### EDIT (6.4.2025):
+- After some research I found out that an update (KB2962486; https://support.microsoft.com/en-us/topic/ms14-025-vulnerability-in-group-policy-preferences-could-allow-elevation-of-privilege-may-13-2014-60734e15-af79-26ca-ea53-8cd617073c30) made the GPP misconfiguration impossible since it has been blocked.
+- I will now try to replicate the misconfiguration first in 2019 version and if that doesn't work in 2012 version which does not have the patch at all. In the 2019 version the GUI option for the misconfiguration has been blocked but it might be possible to do the command in CLI
 
 
 ## References
