@@ -49,16 +49,16 @@ Had a day off
 
 ### 3.4
 Documentation about the GPP VM
-3 hours of documentation
+- 3 hours of documentation
 
 ### 4.4
 Team meeting with Tero Karvinen, Documentation about the GPP VM
-30 minute meeting + 2 hour team meeting, 3 hours of documentation
+- 30 minute meeting + 2 hour team meeting, 3 hours of documentation
 
 ### 5.4
 Finishing documentation about the GPP VM
-3 hours of documentation
+- 3 hours of documentation
 
 ### 6.4
 Team meeting and research about proxmox
-2 hours of work
+- 2 hours of work
