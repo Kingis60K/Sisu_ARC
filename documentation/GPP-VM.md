@@ -71,4 +71,5 @@
 
 ## References
 - https://www.server-world.info/en/note?os=Windows_Server_2025&p=initial_conf&f=6
+- https://www.youtube.com/watch?v=sTedpt47t2Y
 - 
