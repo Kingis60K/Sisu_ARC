@@ -72,4 +72,7 @@
 ## References
 - https://www.server-world.info/en/note?os=Windows_Server_2025&p=initial_conf&f=6
 - https://www.youtube.com/watch?v=sTedpt47t2Y
-- 
+- https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview
+- https://serveracademy.com/blog/active-directory-101-a-step-by-step-tutorial-for-beginners/
+- https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/tutorial-basic-ad-azure
+- https://hammersoftware.com/how-to-create-and-edit-a-gpo/
