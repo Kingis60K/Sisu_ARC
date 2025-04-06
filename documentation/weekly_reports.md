@@ -89,3 +89,10 @@ This week took about **30 hours** of work per person
 - Setting up CTFd framework [Details](ctfd_setup.md) 5 hours of work
 - Setting up smtp on CTFd [Details](ctfd_emailsetup.md) 10 hours of work
 
+## Week 13
+
+- Something something
+
+## Week 14
+
+- VirtualMachine with a GPP misconfiguration finalized 40 hours of work
