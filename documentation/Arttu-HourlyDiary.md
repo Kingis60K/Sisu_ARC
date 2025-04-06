@@ -52,8 +52,8 @@ Documentation about the GPP VM
 3 hours of documentation
 
 ### 4.4
-Documentation about the GPP VM
-3 hours of documentation
+Team meeting with Tero Karvinen, Documentation about the GPP VM
+30 minute meeting + 2 hour team meeting, 3 hours of documentation
 
 ### 5.4
 Finishing documentation about the GPP VM
