@@ -45,3 +45,22 @@ GPP & GPO
 I ran into a wall. No progress made today. I messaged my team members that im having problems. I have to document the issue, photos have been taken. I plan that documentation will take about 5 hours of work.
 
 ## TOTAL WORK HOURS = 23 hours + Planned documentation 5 hours = 28 hours
+
+### 2.4
+Had a day off
+
+### 3.4
+Documentation about the GPP VM
+3 hours of documentation
+
+### 4.4
+Documentation about the GPP VM
+3 hours of documentation
+
+### 5.4
+Finishing documentation about the GPP VM
+3 hours of documentation
+
+### 6.4
+Team meeting and research about proxmox
+2 hours of work
