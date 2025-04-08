@@ -68,3 +68,8 @@ ufw status
 
 ![](assets/1743773109524.png)
 
+--- 
+
+5 days later, checking on fail2ban stats
+
+![](assets/1744095980282.png)
