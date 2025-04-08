@@ -62,3 +62,11 @@ Finishing documentation about the GPP VM
 ### 6.4
 Team meeting and research about proxmox
 - 2 hours of work
+
+### 7.4
+Had a day off
+
+### 8.4
+- Our site officially launched 4 pm
+- I did 2 starter missions on the site. One regarding general rules and other about hashes
+- 2 hours of research, 2 hours of work and 1 hour of documentation
