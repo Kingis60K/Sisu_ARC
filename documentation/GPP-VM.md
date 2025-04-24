@@ -68,6 +68,10 @@
 - After some research I found out that an update (KB2962486; https://support.microsoft.com/en-us/topic/ms14-025-vulnerability-in-group-policy-preferences-could-allow-elevation-of-privilege-may-13-2014-60734e15-af79-26ca-ea53-8cd617073c30) made the GPP misconfiguration impossible since it has been blocked.
 - I will now try to replicate the misconfiguration first in 2019 version and if that doesn't work in 2012 version which does not have the patch at all. In the 2019 version the GUI option for the misconfiguration has been blocked but it might be possible to do the command in CLI
 
+### EDIT (24.4.2025)
+- So I have repeated the same steps until part 5. Now we are going use a WindowsServer 2012, which is vulnerable to the GPP misconfiguration.
+- 
+
 
 ## References
 - https://www.server-world.info/en/note?os=Windows_Server_2025&p=initial_conf&f=6
