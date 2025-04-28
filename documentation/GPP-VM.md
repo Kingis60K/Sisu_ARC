@@ -70,7 +70,27 @@
 
 ### EDIT (24.4.2025)
 - So I have repeated the same steps until part 5. Now we are going use a WindowsServer 2012, which is vulnerable to the GPP misconfiguration.
-- 
+
+![](assets/GPP2(1).png)
+
+- Installing correct versions to proxmox
+
+![](assets/GPP2(2).png)
+
+- Making sure the computers are connected
+
+![](assets/GPP2(3).png)
+
+- Properties of the created user attached to group "ALL" for Win10Pro end device
+
+![](assets/GPP2(4).png)
+
+- Issuing an update accross the domain to change the Administrator password
+  
+![](assets/GPP2(5).png)
+
+- group.xml file of the misconfiguration
+- cpassword is vulnerable because it is only encoded not encrypted
 
 
 ## References
