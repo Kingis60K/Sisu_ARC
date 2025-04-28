@@ -33,3 +33,4 @@
 - We started noticing more and more problems and after fighting with SMB versions we decided to start over
 - We installed Windows Server 2016 instead of Windows 10 Home
 
+## Look [PilotVM](https://github.com/Kingis60K/Sisu_ARC/blob/main/documentation/PilotVM.md) for successful implementation
