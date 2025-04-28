@@ -95,4 +95,4 @@ This week took about **30 hours** of work per person
 
 ## Week 14
 
-- VirtualMachine with a GPP misconfiguration finalized 44 hours of work
+- VirtualMachine with a GPP misconfiguration finalized
