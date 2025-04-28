@@ -85,7 +85,7 @@
 
 ![](assets/GPP2(4).png)
 
-- Issuing an update accross the domain to change the Administrator password
+- Issuing an update across the domain to change the Administrator password
   
 ![](assets/GPP2(5).png)
 
