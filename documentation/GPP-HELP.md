@@ -12,7 +12,7 @@ You have access to a **Windows domain-joined client**, and afterwards you're usi
 
 ### 1. Log in to the Windows client machine.
 ### 2. Open **File Explorer** and go to:
-`\\WINDOWSSERVER2025\SYSVOL\sigismund.kuttenberg\Policies\Machine\Preferences\Groups\Groups.xml`
+`\\sigismund.kuttenberg\SYSVOL\sigismund.kuttenberg\Policies\{3182F340-016D-11D2-945F-00C04FB984F9)\MACHINE\Preferences\Groups`
 
 - The file should look like this
 
