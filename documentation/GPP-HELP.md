@@ -42,3 +42,4 @@ python3 gpp-decrypt.py -c '<encrypted-password-here>'
 
 ## References
 - https://github.com/t0thkr1s/gpp-decrypt/blob/master/README.md
+- https://www.mindpointgroup.com/blog/privilege-escalation-via-group-policy-preferences-gpp
