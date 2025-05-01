@@ -13,9 +13,11 @@ You have access to a **Windows domain-joined client**, and afterwards you're usi
 ### 1. Log in to the Windows client machine.
 ### 2. Open **File Explorer** and go to:
 `\\WINDOWSSERVER2025\SYSVOL\sigismund.kuttenberg\Policies\Machine\Preferences\Groups\Groups.xml`
-![image](https://github.com/user-attachments/assets/81ca2dcf-b066-4c6b-a73c-89c152f8e6aa)
 
 - The file should look like this
+
+![image](https://github.com/user-attachments/assets/81ca2dcf-b066-4c6b-a73c-89c152f8e6aa)
+
 - We only need the part which includes the cpassword, you might have to type it manually to extract it this time
 
 ### 3. Decoding the cpassword (https://github.com/t0thkr1s/gpp-decrypt/blob/master/README.md)
