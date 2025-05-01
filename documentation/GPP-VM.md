@@ -90,13 +90,13 @@
 ![](assets/GPP2(5).png)
 
 - group.xml file of the misconfiguration
-- cpassword is vulnerable because it is only encoded not encrypted
+- cpassword is vulnerable because it is encrypted using an expired AES key
 
 ### EDIT (1.5.2025) (https://github.com/t0thkr1s/gpp-decrypt/blob/master/README.md)
 
 ![](assets/GPP2(6).png)
 
-- AES decoded on a kali machine using t0thkr1s's gpp-decrypt script
+- AES decrypted on a kali machine using t0thkr1s's gpp-decrypt script
 
 ## References
 - https://www.server-world.info/en/note?os=Windows_Server_2025&p=initial_conf&f=6
