@@ -92,6 +92,11 @@
 - group.xml file of the misconfiguration
 - cpassword is vulnerable because it is only encoded not encrypted
 
+### EDIT (1.5.2025) (https://github.com/t0thkr1s/gpp-decrypt/blob/master/README.md)
+
+![](assets/GPP2(6).png)
+
+- AES decoded on a kali machine using t0thkr1s's gpp-decrypt script
 
 ## References
 - https://www.server-world.info/en/note?os=Windows_Server_2025&p=initial_conf&f=6
@@ -100,3 +105,4 @@
 - https://serveracademy.com/blog/active-directory-101-a-step-by-step-tutorial-for-beginners/
 - https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/tutorial-basic-ad-azure
 - https://hammersoftware.com/how-to-create-and-edit-a-gpo/
+- https://github.com/t0thkr1s/gpp-decrypt/blob/master/README.md
