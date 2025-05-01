@@ -20,7 +20,7 @@ You have access to a **Windows domain-joined client**, and afterwards you're usi
 
 - We only need the part which includes the cpassword, you might have to type it manually to extract it this time
 
-### 3. Decoding the cpassword (https://github.com/t0thkr1s/gpp-decrypt/blob/master/README.md)
+### 3. Decrypting the cpassword (https://github.com/t0thkr1s/gpp-decrypt/blob/master/README.md)
 - We are using t0thkr1s's gpp-decrypt script. Here are quick steps for installing on Kali Linux:
 
 ```
@@ -38,7 +38,7 @@ cd gpp-decrypt
 python3 gpp-decrypt.py -c '<encrypted-password-here>'
 ```
 
-- If all is done correctly, you should get a response from the script that the decoded password was "flag> Kuttenberg"
+- If all is done correctly, you should get a response from the script that the decrypted password was "flag> Kuttenberg"
 
 ## References
 - https://github.com/t0thkr1s/gpp-decrypt/blob/master/README.md
