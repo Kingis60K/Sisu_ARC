@@ -61,7 +61,7 @@
 
 ![](assets/GPP-group.xml-file-not-generated.png)
 
-- So the command should make a file called group.xml in the Domain Controllers shared folders so all users in the domain could inspect the file ``\\WINDOWSSERVER2025\SYSVOL\sigismund.kuttenberg\Policies\Machine\Preferences\Groups\Groups.xml``
+- So the command should make a file called group.xml in the Domain Controllers shared folders so all users in the domain could inspect the file ``\\sigismund.kuttenberg\SYSVOL\sigismund.kuttenberg\Policies\{3182F340-016D-11D2-945F-00C04FB984F9)\MACHINE\Preferences\Groups``
 - The weird thing is that the folder for the GPO is generated but there is nothing inside the folder
 
 ### EDIT (6.4.2025):
