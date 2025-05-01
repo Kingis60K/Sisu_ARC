@@ -29,14 +29,14 @@ pip3 install pycryptodome colorama
 
 # Step 2: Clone the tool
 git clone https://github.com/t0thkr1s/gpp-decrypt
-
 ```
 
 Finally we run the tool
-``
+```
 cd gpp-decrypt
+
 python3 gpp-decrypt.py -c '<encrypted-password-here>'
-``
+```
 
 - If all is done correctly, you should get a respond from the script that the decoded password was "flag> Kuttenberg"
 
