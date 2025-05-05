@@ -121,7 +121,7 @@ Basic client-server setting achieved after some research of virtual networks in 
 ## Week 18
 Finalizing GPP computer on proxmox  
 Making challenges into app.sisuctf.com with description and hints  
-Testing the virtual enviroinment so the task can be successfully completed  
+Testing the virtual environment so the task can be successfully completed  
 
 **26 hours of work**
 
