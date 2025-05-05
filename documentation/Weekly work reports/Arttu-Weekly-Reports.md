@@ -130,10 +130,9 @@ Testing the virtual environment so the task can be successfully completed
 ## Week 19
 Final report  
 Final presentation  
-
-Validation inquiry
-
 Group assessment  
+
+Validation Inquiry
 
 **20 hours of work**
 
