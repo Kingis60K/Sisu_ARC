@@ -22,7 +22,7 @@ I was on vacation
 Domain basics
 - I refreshed my memories about the subject. My previous mistakes of choosing the wrong operating system model was only a matter of changing it and trying again.
 - Using previously learned things I easily made way to the point of connecting to the domain sigismund.kuttenberg . Win10 Pro succesfully connected to the domain.
-- 2 hour of research and 3 hours of working
+- 4 hour of research and 4 hours of working
 
 ### 18.3
 Had a day off
