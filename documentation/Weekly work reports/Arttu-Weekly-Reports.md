@@ -135,6 +135,8 @@ Group assessment
 **20 hours of work**
 
 ---
-- The weekly hours contain weekly meetings with the team and teacher
-- Project done
+The weekly hours contain weekly meetings with the team and teacher
+Project done
 **Total: 250 hours**
+
+---
