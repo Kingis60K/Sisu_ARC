@@ -3,9 +3,13 @@
 **Total: 368 hours** including classes & presentation
 
 Team & guidance meetings 	**50h**
+
 On-prem environment		    **155h**
+
 Webapp / cloud		    **118h**
+
 Learning / studying		    **45h**
+
 
 Took over the architecture part of the project when we lost members.
 
