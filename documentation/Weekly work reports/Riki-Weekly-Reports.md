@@ -99,7 +99,7 @@ Acquiring sisuctf.com domain.
 
 Setting up coming soon landing page hosted on vercel, first time trying out v0 ai to create websites.
 
-https://github.com/Kingis60K/Sisu_ARC/blob/main/documentation/countdown_landingpage.md
+[https://github.com/Kingis60K/Sisu_ARC/blob/main/documentation/countdown_landingpage.md](https://github.com/Kingis60K/Sisu_ARC/blob/main/documentation/countown_landingpage.md)
 
 Setting up dns records & nameserver moved from namecheap to hetzner.
 
