@@ -121,8 +121,9 @@
 - Slow week due to holidays and after that the flu (high fever).
 - Started building the GPO VM in Proxmox.
 - Started from scratch
+- Meeting with Tero and the team
 
-**About 2 hours of work**
+**About 5 hours of work**
 
 ## Week 19
 
@@ -136,6 +137,6 @@
 
 **About 35 h of work**
 
-# Final project hours 135
+# Final project hours 138
 
 
